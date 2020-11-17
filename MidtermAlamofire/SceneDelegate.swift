@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  MidtermAlamofire
+//  Midterm1
 //
-//  Created by Darkhan Zhapparov on 10/18/20.
+//  Created by Darkhan Zhapparov on 10/17/20.
 //
 
 import UIKit

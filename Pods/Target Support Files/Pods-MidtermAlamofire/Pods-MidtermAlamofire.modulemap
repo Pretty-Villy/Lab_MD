@@ -1,0 +1,6 @@
+module Pods_MidtermAlamofire {
+  umbrella header "Pods-MidtermAlamofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
